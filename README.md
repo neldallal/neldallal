@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm [Nadine](https://www.linkedin.com/in/nadine-eldallal/), a Software Engineer from Alexandria, Egypt currently based in the San Francisco Bay Area 🌉
+
+I'm primarily interested in full stack development and currently working as a Software Engineer at 📍[@Tesla](https://github.com/teslamotors?q=&type=all&language=&sort=)
